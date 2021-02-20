@@ -56,11 +56,11 @@ input[type="range"]::-webkit-slider-thumb {
   cursor: pointer;
 }
 
-.result {
+#result {
   font-size: 30px;
   font-weight: 500;
   letter-spacing: 1px;
   text-align: center;
   color: #0be881;
-  
+
 }
