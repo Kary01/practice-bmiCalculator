@@ -41,7 +41,7 @@ input[type="range"] {
   height: 3.5px;
   -webkit-apparence: none;
   appearance: none;
-  color: #dfdfdf;
+  background-color: #dcdcdc;
   border-radius: 3px;
   outline: none;
 }
@@ -54,4 +54,13 @@ input[type="range"]::-webkit-slider-thumb {
   background-color: #1c1c1c;
   border-radius: 50%;
   cursor: pointer;
+}
+
+.result {
+  font-size: 30px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #0be881;
+  
 }
